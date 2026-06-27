@@ -1,0 +1,6 @@
+{
+    "supabase_url": "https://awmytblymhywlxjvmubb.supabase.co",
+    "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImF3bXl0Ymx5bWh5d2x4anZtdWJiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4MjI2OTczNSwiZXhwIjoyMDk3ODQ1NzM1fQ.8UrzcLX_T9PweUjualw5juHQI4XTbeE1rtrBBc8Xsc0",
+    "bucket": "eagle-assets",
+    "sync_interval_ms": 30000
+}
