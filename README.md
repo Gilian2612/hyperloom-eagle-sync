@@ -21,7 +21,8 @@ BUCKET=eagle-assets
 
 3. Make sure Eagle is open before running.
 
-## Usage
+
+## Usage Notes
 
 python eagle_sync.py
 
